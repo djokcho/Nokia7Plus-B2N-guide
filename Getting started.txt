@@ -1,0 +1,8 @@
+Statting with it
+
+-Copyright to all the tools and stuff used in this guide i will link them here.
+
+
+1.Unlocking the bootloader
+
+-There is no official way to unlock the bootloader but many unofficial ways. I was able to use techmesto's tool to unlock it on windows.
