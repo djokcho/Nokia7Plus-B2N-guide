@@ -1,0 +1,4 @@
+Getting custom compiled kernels to work:
+
+
+Take the stock boot.img for your custom rom, pack your built kernel and it should work
